@@ -1,0 +1,5 @@
+C:/Users/cotyr/CLionProjects/ClientServerProject/cmake-build-debug/CMakeFiles/client.dir
+C:/Users/cotyr/CLionProjects/ClientServerProject/cmake-build-debug/CMakeFiles/server.dir
+C:/Users/cotyr/CLionProjects/ClientServerProject/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/cotyr/CLionProjects/ClientServerProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cotyr/CLionProjects/ClientServerProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
